@@ -6,7 +6,7 @@ subtitle: Dynamics, Control, Athletic Intelligence
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Shivesh_Kumar.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>3172, 3rd Floor M-Huset</p>
