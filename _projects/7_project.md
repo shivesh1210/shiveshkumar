@@ -1,18 +1,17 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
-importance: 1
+title: Towards Digital Twins of the Human Body
+description: for Personalized Safety
+img: assets/img/simple_pendulum.png
+importance: 4
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Models of the human body (crash test dummy, finite element models) are used in design and safety assessment of vehicles. However, these are limited to a few design points resulting in systems that are biased against sections of the population. A lack of experimental data and efficient tools historically restricted the scope of safety evaluations to a subset of road users. The current advances in digital resources, AI technology, and physics-aware computational methods open up new opportunities to design tools and workflows that can consider the diversity of road users in safety evaluations.
+In this study, we propose to develop a workflow to extract information from
+photographs to build individualized models and digital twins that can be used to assess injuries for wider sections of society (females, obese, elderly). The workflow consists of (a) deep learning model to recognize anthropometry parameters (b) mass distribution estimator tuned using convex geometric optimization and (c) a digital twin generator that generates anatomical landmarks and inertial properties required for a human body models. This workflow will enable users to combine existing empirical data from literature with person-specific information. The end users include industry that uses human body models for development of safe vehicles (Volvo, Autoliv) and
+researchers (experimental and computational biomechanics).
 
     ---
     layout: page

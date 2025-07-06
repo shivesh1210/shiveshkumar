@@ -1,0 +1,102 @@
+- course: "TRA455: Athletic Intelligence in Robotics"
+  university: Chalmers University of Technology
+  level: Master's
+  location: Gothenburg, Sweden
+  start: 2025-03
+  end: 2025-05
+  credits: 7.5
+  highlights: "Tracks course"
+
+- course: "TME141: Structural Dynamics"
+  university: Chalmers University of Technology
+  level: Master's
+  location: Gothenburg, Sweden
+  start: 2024-11
+  end: 2024-12
+  credits: 7.5
+  highlights: >
+    Focussing on computational aspects of linear structural dynamics.
+    Includes 15 lectures, computer assignment sessions, consultancy hours.
+
+- course: "MBCAIR: Model Based Control for Athletic Intelligence in Robots"
+  university: Ecole Centrale de Nantes
+  level: Master's
+  location: Nantes, France
+  start: 2024-06
+  end: 2024-06
+  credits: ""
+  highlights: "Visiting professor"
+  
+- course: "MRCA: Modern Robot Control Architectures"
+  university: University of Bremen
+  level: Bachelor's & Master's
+  location: Bremen, Germany
+  start: 2024-04
+  end: 2024-08
+  credits: ""
+  highlights: "Visiting professor to teach part of the MRCA course"
+
+- course: "Dynamics of Multibody Systems"
+  university: Chalmers University of Technology
+  level: PhD
+  location: Gothenburg, Sweden
+  start: 2024-03
+  end: 2024-05
+  credits: ""
+  highlights: >
+    level course taught with Prof. Håkan Johansson, contributed to lectures, exercise and tutorials on the minimal coordinate formulation of the multi-body dynamics
+  
+- course: "TME141: Structural Dynamics"
+  university: Chalmers University of Technology
+  level: ""
+  location: Gothenburg, Sweden
+  start: 2023-11
+  end: 2023-12
+  credits: ""
+  highlights: >
+    11 Exercise Sessions on various topics in Structural Dynamics, assisted Prof. Thomas Abrahmsson (retired) in the computer assignment and consultancy sessions with students.
+  
+- course: "MRCA: Modern Robot Control Architectures"
+  university: University of Bremen
+  level: ""
+  location: Bremen, Germany
+  start: 2023-04
+  end: 2023-08
+  credits: ""
+  highlights: ""
+  
+- course: "Propaedeutic C/C++"
+  university: University of Bremen
+  level: ""
+  location: Bremen, Germany
+  start: 2022-09
+  end: 2022-03
+  credits: ""
+  highlights: "Hands-on Tutorials on C/C++ programming"
+  
+- course: "MRCA: Modern Robot Control Architectures"
+  university: University of Bremen
+  level: ""
+  location: Bremen, Germany
+  start: 2022-04
+  end: 2022-08
+  credits: ""
+  highlights: "Contributed to restructuring the course and modernizing it."
+  
+- course: "HCIR: Human Centered Interaction in Robotics"
+  university: University of Bremen
+  level: ""
+  location: Bremen, Germany
+  start: 2022-04
+  end: 2022-08
+  credits: ""
+  highlights: ""
+
+- course: "MRCA: Modern Robot Control Architectures"
+  university: University of Bremen
+  level: ""
+  location: Bremen, Germany
+  start: 2021-04
+  end: 2021-08
+  highlights: ""
+

@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - shivesh1210
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - dfki-ric-underactuated-lab/torque_limited_simple_pendulum
+  - dfki-ric-underactuated-lab/double_pendulum
+  - dfki-ric-underactuated-lab/acromonk
+  - dfki-ric-underactuated-lab/mppc
+  - dfki-ric-underactuated-lab/ricmonk
+  - dfki-ric-underactuated-lab/dfki-quad
+  - dfki-ric-underactuated-lab/skidy

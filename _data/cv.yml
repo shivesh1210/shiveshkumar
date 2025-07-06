@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Academic Degrees & Education
       institution: University of Zurich, Zurich, Switzerland
       year: 1905
       description:
@@ -31,7 +31,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
+    - title: Vision & Research Interests
       institution: Institute for Advanced Study, Princeton University
       year: 1933 - 1955
       description:
