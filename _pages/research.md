@@ -11,7 +11,7 @@ nav_order: 6
 ---
 ### Book
 ![The book]({{ site.baseurl }}/assets/img/Book.jpg)
-<br> **[https://shop.elsevier.com/books/biologically-inspired-series-parallel-hybrid-robots](https://shop.elsevier.com/books/biologically-inspired-series-parallel-hybrid-robots/kumar/978-0-323-88482-2#full-description)**
+<br> **[Biologically Inspired Series-Parallel Hybrid Robots – Kumar et al. (2024)](https://shop.elsevier.com/books/biologically-inspired-series-parallel-hybrid-robots/kumar/978-0-323-88482-2#full-description)**
 <br>
 <br> **Biologically Inspired Series-Parallel Hybrid Robots** 
 
