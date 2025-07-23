@@ -6,7 +6,7 @@
     "email": "shivesh.kumar@chalmers.se",
     "phone": "+46-317722295",
     "url": "https://www.chalmers.se/en/persons/shivesh/",
-    "summary": "An India-born roboticist, interested in pushing boundaries of what is possible with robots",
+    "summary": "Assistant Professor in Dynamics & Control. Interested in athletic intelligence, optimal control, and multi-body dynamics. Experienced in teaching, research, and project management.",
     "location": {
       "address": "Hörsalsvägen 7A",
       "postalCode": "412 58",
@@ -30,98 +30,180 @@
       "startDate": "2023-10-15",
       "endDate": "Present",
       "summary": "Teaching and Research",
-      "highlights": ["Multi-Body Dynamics", "Optimal Control", "Legged Robotics"]
+      "highlights": ["Multi-Body Dynamics", "Optimal Control", "Athletic Intelligence for Legged Robots"]
     },
     {
       "name": "Robotics Innovation Center, German Research Center for Artificial Intelligence (DFKI GmbH)",
-      "position": "Contracted Senior Researcher (Part-time)",
+      "position": "Contracted Senior Researcher (Part-time, 0.1 FTE)",
       "url": "https://robotik.dfki-bremen.de/en/startpage",
       "startDate": "2024-06-01",
       "endDate": "Present",
-      "summary": "Advisory Relationship to Team Mechanics & Control and Underactuated Robotics Lab"    
+      "summary": "Advisory Relationship to the Team Mechanics & Control and Underactuated Robotics Lab",
+      "highlights": ["PhD supervision", "AI Olympics with RealAIGym Competition Series"]          
       },  
       {
       "name": "Robotics Innovation Center, German Research Center for Artificial Intelligence (DFKI GmbH)",
       "position": "Senior Researcher",
-      "url": "https://example.com",
+      "url": "https://robotik.dfki-bremen.de/en/startpage/news/dfki-researcher-shivesh-kumar-appointed-as-assistant-professor-at-chalmers-university-of-technology",
       "startDate": "2020-07",
       "endDate": "2024-05",
-      "summary": "Project leader",
-      "highlights": ["VeryHuman project","M-RoCK project","Hybrid Robot Dynamics (HyRoDyn)"]
+      "summary": "Project leader and founder of the Underactuated Robotics Lab",
+      "highlights": ["VeryHuman project","M-RoCK project","Underactuated Robotics Lab", "PACOMA"]
     },
     {
       "name": "Robotics Innovation Center, German Research Center for Artificial Intelligence (DFKI GmbH)",
-      "position": "Team Leader: Mechanics & Control,",
-      "url": "https://example.com",
+      "position": "Team Leader: Mechanics & Control",
+      "url": "https://robotik.dfki-bremen.de/en/research/teams/mechanics-control",
       "startDate": "2019-04",
       "endDate": "2023-10",
-      "summary": "The Advanced AI team Mechanics & Control",
+      "summary": "Led the Advanced AI Team: Mechanics & Control",
       "highlights": ["formulation of team vision and goals","project acquisition for the team","organizing team’s journal club"]
     },
     {
       "name": "Robotics Innovation Center, German Research Center for Artificial Intelligence (DFKI GmbH)",
       "position": "Researcher",
-      "url": "https://example.com",
+      "url": "https://robotik.dfki-bremen.de/en/startpage",
       "startDate": "2015-10",
       "endDate": "2020-06",
-      "summary": "Worked in Robot Control Team and contributed to various R & D (Recupera-Reha, D-RoCK,Q-RoCK) and industrial (ILAADR) projects.",
-      "highlights": ["Q-RoCK","TransFIT","Recupera-Reha"]
+      "summary": "Worked in Robot Control Team and contributed to various R & D and industrial projects.",
+      "highlights": ["Q-RoCK","TransFIT","Recupera-Reha","ILAADR"]
     }
   ],
   "grants": [
     {
       "organization": "Swedish Foundation for Strategic Research",
       "location": "Gothenburg, Sweden",
-      "position": "Future Research Leader Grant (FFL-9)",
+      "position": "Future Research Leader Grant (FFL-9) worth 15 Million SEK (PI)",
       "url": "https://strategiska.se/pressmeddelande/de-ar-framtidens-forskningsledare-2/",
       "startDate": "2025-08-01",
       "endDate": "2030-07-31",
-      "summary": "For the ninth time, the Foundation for Strategic Research has appointed the Research Leaders of the Future. The researchers will receive a grant of SEK 15 million each over a five-year period and will participate in a comprehensive leadership training program during the program."
+      "summary": "AI Based Holistic Co-Design of Legged Robots"
     },
     {
-      "organization": "Erasmus Mundus HERITAGE scholarship",
+      "organization": "Chalmers Innovation Office",
+      "location": "Gothenburg, Sweden",
+      "position": "Research based Validation (VFT) grant worth 80k SEK (PI)",
+      "url": "https://strategiska.se/pressmeddelande/de-ar-framtidens-forskningsledare-2/",
+      "startDate": "2025-04-01",
+      "endDate": "2025-08-30",
+      "summary": "Double Pendulum on the Cloud"
+    },
+    {
+      "organization": "Chalmers Foundation Digitization Initiative",
+      "location": "Gothenburg, Sweden",
+      "position": "Digitization project grant worth 499k SEK (co-PI)",
+      "url": "https://research.chalmers.se/en/project/12140",
+      "startDate": "2025-02-13",
+      "endDate": "2026-02-12",
+      "summary": "Swinging Pendulums on the Cloud: Digitizing Experimental Infrastructure for Instant Feedback based Learning"
+    },
+    {
+      "organization": "Chalmers Area of Advance Transport",
+      "location": "Gothenburg, Sweden",
+      "position": "Collaborative project grant worth 2 Million SEK (PI)",
+      "url": "https://research.chalmers.se/en/project/11684",
+      "startDate": "2025-01-01",
+      "endDate": "2026-12-31",
+      "summary": "Towards Digital Twins of the Human Body for Personalized Safety"
+    },
+    {
+      "organization": "Wallenberg AI, Autonomous Systems and Software Program",
+      "location": "Gothenburg, Sweden",
+      "position": "WASP WARA-Robotics project grant worth 4 Million SEK (PI)",
+      "url": "https://research.chalmers.se/en/project/12139",
+      "startDate": "2024-11-22",
+      "endDate": "2029-11-21",
+      "summary": "AI-Driven Constrained Optimal Control for Bi-manual Loco-Manipulation"
+    },    
+    {
+      "organization": "Chalmers Area of Advance Transport",
+      "location": "Gothenburg, Sweden",
+      "position": "Future Transport System project grant worth 0.6 Million SEK (co-PI)",
+      "url": "https://research.chalmers.se/en/project/11651",
+      "startDate": "2024-03-27",
+      "endDate": "2024-12-31",
+      "summary": "Crystalline nanocellulose for biobased aerospace vehicles"
+    },   
+    {
+      "organization": "Airbus Defence and Space GmbH (Sub-contractor) and European Space Agency (Contractor)",
+      "location": "Bremen, Germany",
+      "position": "Research project worth 72k Euros (PI)",
+      "url": "https://robotik.dfki-bremen.de/en/research/projects/continuumpkm",
+      "startDate": "2022-01-01",
+      "endDate": "2024-03-31",
+      "summary": "ContinuumPKM: Demonstrator of Parallel Kinematics Continuum Mechanism for Robotic Exploration"
+    },            
+    {
+      "organization": "Federal Ministry of Education and Research (BMBF)",
+      "location": "Bremen, Germany",
+      "position": "SAB Research project worth 3 Million Euros (co-author and co-project leader)",
+      "url": "https://robotik.dfki-bremen.de/en/research/projects/m-rock",
+      "startDate": "2021-08-01",
+      "endDate": "2024-07-31",
+      "summary": "M-Rock: Human-Machine Interaction Modeling for Continuous Improvement of Robot Behavior"
+    },    
+    {
+      "organization": "Federal Ministry of Education and Research (BMBF)",
+      "location": "Bremen, Germany",
+      "position": "SAB Research project worth 1.2 Million Euros (co-author and project leader)",
+      "url": "https://robotik.dfki-bremen.de/en/research/projects/veryhuman",
+      "startDate": "2020-06-01",
+      "endDate": "2024-05-31",
+      "summary": "VeryHuman: Learning and Verifying Complex Behaviours for Humanoid Robots"
+    },    
+    {
+      "organization": "Federal Ministry for Economic Affairs and Climate Action (BMWK)",
+      "location": "Bremen, Germany",
+      "position": "Research project worth 600k Euros (co-author)",
+      "url": "https://robotik.dfki-bremen.de/en/research/projects/aaple",
+      "startDate": "2023-03-01",
+      "endDate": "2025-02-28",
+      "summary": "AAPLE: Expanding the Action-Affordance Envelope for Planetary Exploration using Dynamics Legged Robots"
+    }, 
+    {
+      "organization": "Federal State of Bremen",
+      "location": "Bremen, Germany",
+      "position": "RIC Infrastructure Development Grant worth 0.75 Million Euros (co-author and project leader)",
+      "url": "https://robotik.dfki-bremen.de/en/research/research-facilities-labs/underactuated-lab",
+      "startDate": "2020",
+      "endDate": "2024",
+      "summary": "Underactuated Robotics Lab"
+    },    
+    {
+      "organization": "European Union",
       "location": "Nantes,France",
-      "position": "Masters studies in Advanced Robotics at Ecole Centrale de Nantes",
-      "url": "https://strategiska.se/pressmeddelande/de-ar-framtidens-forskningsledare-2/",
-      "startDate": "2013",
-      "endDate": "2015",
-      "summary": "..."
-    },
-    {
-      "organization": "Erasmus Mundus India4EU scholarship",
-      "location": "India",
-      "position": "Masters studies in Mechatronics at Politechnico di Torino",
-      "url": "https://strategiska.se/pressmeddelande/de-ar-framtidens-forskningsledare-2/",
-      "startDate": "2013",
-      "endDate": "2015",
-      "summary": "..."
+      "position": "Erasmus Mundus HERITAGE Grant worth €26,000",
+      "url": "https://heritage.ec-nantes.fr/",
+      "startDate": "2013-09-01",
+      "endDate": "2015-08-31",
+      "summary": "Masters studies in Advanced Robotics at Ecole Centrale de Nantes"
     },
     {
       "organization": "Function Dynamics India Pvt. Ltd.",
       "location": "Shanghai, China",
-      "position": "Conference grant",
-      "url": "https://strategiska.se/pressmeddelande/de-ar-framtidens-forskningsledare-2/",
+      "position": "Conference Travel Grant",
+      "url": "http://www.functiondynamics.in/",
       "startDate": "2012",
       "endDate": "2012",
-      "summary": "presenting my paper in Asian Conference on Multi-body Dynamics"
+      "summary": "Presenting my paper in Asian Conference on Multi-body Dynamics"
     },
     {
-      "organization": "DAAD-IAESTE scholarship",
+      "organization": "German Academic Exchange Service (DAAD)",
       "location": "Paderborn, Germany",
-      "position": "research stay at Institute of Mechatronics and Dynamics, University of Paderborn",
-      "url": "https://strategiska.se/pressmeddelande/de-ar-framtidens-forskningsledare-2/",
-      "startDate": "2012",
-      "endDate": "2012",
-      "summary": "..."
+      "position": "DAAD-IAESTE scholarship worth €2,000",
+      "url": "https://www.iaeste.de/en/for-students/internship-in-germany/",
+      "startDate": "2012-05-01",
+      "endDate": "2012-07-31",
+      "summary": "Research stay at Institute of Mechatronics and Dynamics, University of Paderborn"
     },
     {
-      "organization": "CBSE Central Sector Scholarship",
+      "organization": "Central Board of Secondary Education (CBSE)",
       "location": "Surathkal, India",
-      "position": "B. Tech. degree in Mechanical Engineering at NITK",
+      "position": "CBSE Central Sector Scholarship",
       "url": "https://strategiska.se/pressmeddelande/de-ar-framtidens-forskningsledare-2/",
       "startDate": "2009",
       "endDate": "2013",
-      "summary": "..."
+      "summary": "B. Tech. degree in Mechanical Engineering at NITK Surathkal"
     }
   ],
   "education": [
@@ -133,63 +215,57 @@
       "studyType": "Pedagogical Diploma",
       "startDate": "2023-11",
       "endDate": "2025-08",
-      "score": "1.0",
-      "courses": ["Research Supervision", "Pedagogical Project", "Blended Learning"]
+      "score": "1.0"
     },
     {
       "institution": "Faculty of Mathematics & Computer Science, University of Bremen,",
       "location": "Bremen, Germany",
-      "url": "https://www.chalmers.se/en/",
+      "url": "https://www.uni-bremen.de/en/fb3",
       "area": "Doctorate in Natural Sciences (Dr. rer. nat.)",
       "studyType": "PhD",
       "startDate": "2019",
       "endDate": "2019",
-      "score": "Summa Cum Laude.",
-      "courses": ["Specialized in Computer Science"]
+      "score": "Summa Cum Laude"
     },
     {
       "institution": "Ecole Centrale de Nantes",
       "location": "Nantes, France",
-      "url": "https://www.chalmers.se/en/",
-      "area": "Masters of Science in Control Engineering, Robotics and Applied Informatics",
+      "url": "https://www.ec-nantes.fr/english-version",
+      "area": "Masters of Science in Control Engineering, Robotics and Applied Informatics (Specialization in Advanced Robotics)",
       "studyType": "Master",
       "startDate": "2013",
       "endDate": "2015",
-      "score": "15.7/20",
-      "courses": ["Specialized in Advanced Robotics"]
+      "score": "15.7/20"
     },
     {
       "institution": "National Institute of Technology Karnataka",
       "location": "Surathkal, India",
-      "url": "https://www.chalmers.se/en/",
-      "area": "Bachelor of Technology in Mechanical Engineering, National Institute of Tech- nology Karnataka",
-      "studyType": "Bachelor",
+      "url": "https://mech.nitk.ac.in/",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Technology",
       "startDate": "2009",
       "endDate": "2013",
-      "score": "8.59/10",
-      "courses": ["..."]
+      "score": "8.59/10"
     },
     {
       "institution": "Central Board of Secondary Education",
       "location": "Delhi, India",
-      "url": "https://www.chalmers.se/en/",
+      "url": "https://www.cbse.gov.in/",
       "area": "All India Senior School Certificate Examination",
-      "studyType": "Secondary School",
+      "studyType": "Senior Secondary School",
       "startDate": "2008",
       "endDate": "2009",
-      "score": "88%",
-      "courses": ["..."]
+      "score": "88%"
     },
     {
       "institution": "Central Board of Secondary Education",
       "location": "Delhi, India",
-      "url": "https://www.chalmers.se/en/",
+      "url": "https://www.cbse.gov.in/",
       "area": "All India School Certificate Examination",
-      "studyType": "Secondary Education",
+      "studyType": "Secondary School",
       "startDate": "2006",
       "endDate": "2007",
-      "score": "89.2%",
-      "courses": ["..."]
+      "score": "89.2%"
     }
   ],
    "theses": [
@@ -197,19 +273,22 @@
     "supervisors": "Prof. Dr. Frank Kirchner (Universität Bremen, Germany) & Prof. Dr. Andreas Müller (Johannes Kepler Universität Linz, Austria)",
     "title": "Modular and Analytical Methods for Solving Kinematics and Dynamics of Series Parallel Hybrid Robots",
     "skills": "Screw Theory, Lie Group Theory, Computational Algebraic Geometry, Kinematics and Dynamics, Equations of Motion, Holonomic Constraints, Complex Mechanisms.",
-    "level": "PhD Dissertation"
+    "level": "PhD Dissertation",
+    "url": "https://media.suub.uni-bremen.de/entities/publication/683e23b5-f48c-41de-b7f3-9483ae16f5ba"
   },
   {
     "supervisors": "Prof. Valerie Renaudin (Université Gustave Ei!el) & Prof. Yannick Aoustin (Université de Nantes), Prof. Eric Le-Carpentier (Ecole Centrale de Nantes, France)",
     "title": "Contribution to Modeling of Human Walking Gait Cycle over Stride based on Robotics for Pedestrian Navigation Solution",
     "skills": "Biomechanics, Gait Analysis, Optimal Control, Sequential Quadratic Programming, Pedestrian Navigation, Dynamic Modeling and Parameter Estimation of Humans.",
-    "level": "Master Thesis"
+    "level": "Master Thesis",
+    "url": "https://www.researchgate.net/publication/304181267_Contribution_to_modeling_of_human_walking_gait_cycle_over_stride_based_on_robotics_for_pedestrian_navigation_solution"
   },
   {
     "supervisors": "Prof. Dr. K V Gangadharan (National Institute of Technology Karnataka, India)",
     "title": "All-Terrain Mobile Robot for Extra-Terrestrial Applications",
     "skills": "Multi–Body Dynamics Simulation, RecurDyn, Co-simulation, Mechatronics System Design of Shrimp Rover, Embedded Systems Programming, CAD Modeling",
-    "level": "Bachelors Thesis"
+    "level": "Bachelors Thesis",
+    "url": "https://www.researchgate.net/publication/290390411_ALL-TERRAIN_MOBILE_ROBOT_FOR_EXTRA-TERRESTRIAL_APPLICATIONS"
   }
   ], 
   "awards": [
@@ -314,7 +393,7 @@
   },
   {
     "title": "RealAIGym: Education and Research Platform for Athletic Intelligence",
-    "event": "Workshop on Learning and Control of Dynamic Robots",
+    "event": "Research Seminar",
     "organization": "KTH Royal Institute of Technology, Stockholm, Sweden",
     "location": "Stockholm, Sweden",
     "date": "2024-03-26",
@@ -875,7 +954,7 @@
       },
       {
       "title": "ILAADR",
-      "summary": "nternal Logistics with Automated Autonomous Delivery and Replenishment, funded by EIT Digital",
+      "summary": "Internal Logistics with Automated Autonomous Delivery and Replenishment, funded by EIT Digital",
       "highlights": ["Low level drivers for UR10 robot and Robotiq two finger gripper", "Computer vision software for manipulation with HALCON library", "Performed tests at industrial site of FIAT Research Center in Torino, Italy."],
       "startDate": "2016-01-01",
       "endDate": "2016-12-31",
