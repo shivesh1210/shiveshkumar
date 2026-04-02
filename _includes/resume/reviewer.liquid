@@ -1,6 +1,6 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
   {% assign reviewer = data[1] | sort: 'type' | reverse %}
-  {% for content in reviewer%}
+  {% for content in reviewer %}
     <li class="list-group-item">
       <div class="row">
         <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
@@ -14,9 +14,8 @@
               </tr>
             </tbody>
           </table>
-        </div> 
+        </div>
         <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
-        
           <ul class="items">
             {% for item in content.journals %}
               <li>
@@ -24,7 +23,7 @@
               </li>
             {% endfor %}
           </ul>
-          
+
           <ul class="items" style="list-style: none; padding-left: 0;">
             {% for item in content.conferences %}
               <li>
@@ -32,7 +31,6 @@
               </li>
             {% endfor %}
           </ul>
-          
         </div>
       </div>
     </li>

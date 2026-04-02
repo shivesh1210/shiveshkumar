@@ -10,13 +10,17 @@
         </div>
         <div class="col-md-10">
           <h6 class="title font-weight-bold">{{ content.title }}</h6>
-          <p><strong>{{ content.event }}</strong><br/>{{ content.location }}</p>
+          <p>
+            <strong>{{ content.event }}</strong><br>
+            {{ content.location }}
+          </p>
           {% if content.note %}
-            <p><em>{{ content.note }}</em></p>
+            <p>
+              <em>{{ content.note }}</em>
+            </p>
           {% endif %}
         </div>
       </div>
     </li>
   {% endfor %}
 </ul>
-

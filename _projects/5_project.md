@@ -15,5 +15,3 @@ To design future sustainable transport systems, society needs new sustainable ma
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
-
-

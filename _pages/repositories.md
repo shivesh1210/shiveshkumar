@@ -2,10 +2,11 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Below you can find some of our open-source projects. 
+description: Below you can find some of our open-source projects.
 nav: true
 nav_order: 4
 ---
+
 <!--
 ## GitHub users
 
@@ -35,6 +36,7 @@ nav_order: 4
 {% endif %}
 {% endif %}
 -->
+
 ## GitHub Repositories
 
 {% if site.data.repositories.github_repos %}

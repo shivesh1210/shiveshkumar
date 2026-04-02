@@ -8,9 +8,7 @@ category: work
 giscus_comments: true
 ---
 
-The main objective of this project is to create a digital platform for programming coursework that provides immediate feedback to students. The platform will integrate multi-body dynamics simulations and video streams of live experimentation hardware (such as simple or double pendulum systems) on the cloud, enhancing their learning experience. Teachers can also utilize the system for (semi-)automated grading, streamlining both learning and teaching processes. This innovation aims to create an environment where educational feedback is prompt and insightful, supporting efficient and pedagogically sound learning. The target groups are students and teachers of courses with programming exercises/assignments related to artificial intelligence, dynamics, robotics, and control. 
-
-
+The main objective of this project is to create a digital platform for programming coursework that provides immediate feedback to students. The platform will integrate multi-body dynamics simulations and video streams of live experimentation hardware (such as simple or double pendulum systems) on the cloud, enhancing their learning experience. Teachers can also utilize the system for (semi-)automated grading, streamlining both learning and teaching processes. This innovation aims to create an environment where educational feedback is prompt and insightful, supporting efficient and pedagogically sound learning. The target groups are students and teachers of courses with programming exercises/assignments related to artificial intelligence, dynamics, robotics, and control.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

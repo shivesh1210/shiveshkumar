@@ -26,7 +26,7 @@
   end: 2024-06
   credits: ""
   highlights: "Visiting professor"
-  
+
 - course: "MRCA: Modern Robot Control Architectures"
   university: University of Bremen
   level: Bachelor's & Master's
@@ -45,7 +45,7 @@
   credits: ""
   highlights: >
     level course taught with Prof. Håkan Johansson, contributed to lectures, exercise and tutorials on the minimal coordinate formulation of the multi-body dynamics
-  
+
 - course: "TME141: Structural Dynamics"
   university: Chalmers University of Technology
   level: ""
@@ -55,7 +55,7 @@
   credits: ""
   highlights: >
     11 Exercise Sessions on various topics in Structural Dynamics, assisted Prof. Thomas Abrahmsson (retired) in the computer assignment and consultancy sessions with students.
-  
+
 - course: "MRCA: Modern Robot Control Architectures"
   university: University of Bremen
   level: ""
@@ -64,7 +64,7 @@
   end: 2023-08
   credits: ""
   highlights: ""
-  
+
 - course: "Propaedeutic C/C++"
   university: University of Bremen
   level: ""
@@ -73,7 +73,7 @@
   end: 2022-03
   credits: ""
   highlights: "Hands-on Tutorials on C/C++ programming"
-  
+
 - course: "MRCA: Modern Robot Control Architectures"
   university: University of Bremen
   level: ""
@@ -82,7 +82,7 @@
   end: 2022-08
   credits: ""
   highlights: "Contributed to restructuring the course and modernizing it."
-  
+
 - course: "HCIR: Human Centered Interaction in Robotics"
   university: University of Bremen
   level: ""
@@ -99,4 +99,3 @@
   start: 2021-04
   end: 2021-08
   highlights: ""
-

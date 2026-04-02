@@ -3,11 +3,13 @@
 <div class="row">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
-    {% if entry.leftgif %}
-      <img src="{{ '/assets/img/' | append: entry.leftgif | relative_url }}"
-           alt="icon"
-           style="width: 120px; height: 120px; display: flex; margin: 20px auto;">
-    {% endif %}
+      {% if entry.leftgif %}
+        <img
+          src="{{ '/assets/img/' | append: entry.leftgif | relative_url }}"
+          alt="icon"
+          style="width: 120px; height: 120px; display: flex; margin: 20px auto;"
+        >
+      {% endif %}
       {%- if entry.abbr -%}
         {%- if site.data.venues[entry.abbr] -%}
           {% assign venue_style = null %}
@@ -53,8 +55,11 @@
     <!-- Title -->
     <div class="title">
       {% if entry.gif %}
-        <img src="{{ '/assets/img/' | append: entry.gif | relative_url }}" alt="icon"
-         style="width: 56px; height: 56px; margin-right: 6px; vertical-align: baseline;">
+        <img
+          src="{{ '/assets/img/' | append: entry.gif | relative_url }}"
+          alt="icon"
+          style="width: 56px; height: 56px; margin-right: 6px; vertical-align: baseline;"
+        >
       {% endif %}
       {{ entry.title }}
     </div>
