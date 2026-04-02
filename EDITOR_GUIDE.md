@@ -87,7 +87,7 @@ To add a **new section**:
     liquid
 
     `{% when 'new section' %}
-  {% include resume/new section.liquid %}`
+{% include resume/new section.liquid %}`
 
 - `cv.yml` → `/_data/`
 
